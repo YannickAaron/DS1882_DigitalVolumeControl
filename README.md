@@ -11,4 +11,4 @@ Control analog audio signales with an arduino
 3x 0.1uf capacitors
 2x DS1882 digipots
 
-*Please see schematics for realtions*
+*Please see schematics for relations*
